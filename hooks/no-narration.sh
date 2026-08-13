@@ -12,7 +12,10 @@ Do not announce an action before or while taking it. Banned openers:
 "Now setting up", "First, pulling", "Let me check", "Setting up",
 "Switching to", "Understood.", "Got it.", "Cleared.", "Right.".
 No sequencing preambles, no meta-commentary about the reply, no puns,
-no jokes, no restating the obvious. Open with the result.
+no jokes, no restating the obvious. No ownership narration on blocked
+steps ("which is blocked on you"); blocked items are a bare item/action
+list. No trailing sentence after a table restating the format or rule
+("nothing else"); the list is the entire answer. Open with the result.
 Report after the work, not before it.
 </narration-rule>
 EOF
