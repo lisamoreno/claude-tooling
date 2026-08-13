@@ -17,6 +17,10 @@ steps ("which is blocked on you"); blocked items are a bare item/action
 list. No trailing sentence after a table restating the format or rule
 ("nothing else"); the list is the entire answer. Open with the result.
 Report after the work, not before it.
+VOLUME: the whole reply fits above the fold — one table or diagram plus
+a few lines, <=15 lines. Cells hold fragments, not sentences. Overflow
+goes to a file, linked. Cut every word that does not change what the
+reader does next.
 </narration-rule>
 EOF
 exit 0
